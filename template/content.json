@@ -1,0 +1,33 @@
+{
+  "site": {
+    "brand": "Tasabil Islam Neelim",
+    "taglines": [
+      "Brand Visualizer and Cinematographer.",
+      "Crafting stories with Motion Graphics.",
+      "Building visual narratives that Resonate."
+    ],
+    "avatar": "https://placehold.co/200x200?text=TIN",
+    "cover": "https://placehold.co/1200x360?text=Portfolio+Cover",
+    "socials": {
+      "instagram": "https://instagram.com/yourprofile",
+      "youtube": "https://youtube.com/@yourchannel",
+      "behance": "https://behance.net/yourprofile",
+      "website": "https://yourwebsite.com"
+    }
+  },
+  "about": {
+    "bio": "Hey, I’m Tasabil Islam — a visual storyteller blending motion, design, and emotion to create cinematic experiences that connect brands with people."
+  },
+  "videos": [
+    { "cat": "reels", "url": "https://youtu.be/dQw4w9WgXcQ" },
+    { "cat": "reels", "url": "https://vimeo.com/76979871" }
+  ],
+  "graphics": [
+    { "src": "https://placehold.co/800x450/png?text=Graphic+1", "alt": "Sample 1", "caption": "Poster Design" },
+    { "src": "https://placehold.co/800x450/png?text=Graphic+2", "alt": "Sample 2", "caption": "Thumbnail" }
+  ],
+  "brands": [
+    "https://placehold.co/200x100/white/black?text=Brand+1",
+    "https://placehold.co/200x100/white/black?text=Brand+2"
+  ]
+}
