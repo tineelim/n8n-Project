@@ -1,0 +1,48 @@
+{
+  "site": {
+    "brand": "YOUR CLIENT NAME",
+    "taglines": [
+      "Video Editor & Motion Designer.",
+      "Cinematic reels. Clean graphics.",
+      "Available for freelance."
+    ],
+    "avatar": "assets/images/default-avatar.png",
+    "cover": "assets/images/default-cover.jpg",
+    "socials": {
+      "instagram": "https://instagram.com/yourhandle",
+      "youtube": "https://youtube.com/@yourchannel",
+      "behance": "https://behance.net/yourprofile",
+      "website": "https://yourwebsite.com"
+    }
+  },
+  "about": {
+    "bio": "I craft cinematic edits, crisp motion graphics, and scroll-stopping social assets for brands and creators. Available for freelance, remote or on-site."
+  },
+  "videos": [
+    {
+      "cat": "reels",
+      "url": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    {
+      "cat": "reels",
+      "url": "https://vimeo.com/76979871"
+    }
+  ],
+  "graphics": [
+    {
+      "cat": "gallery",
+      "src": "https://placehold.co/800x450/png",
+      "alt": "Sample graphic 1",
+      "caption": "Sample caption"
+    },
+    {
+      "cat": "gallery",
+      "src": "https://placehold.co/800x450/jpg",
+      "alt": "Sample graphic 2"
+    }
+  ],
+  "brands": [
+    "https://placehold.co/200x100/white/black?text=Brand+1",
+    "https://placehold.co/200x100/white/black?text=Brand+2"
+  ]
+}

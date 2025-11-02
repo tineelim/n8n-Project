@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio — <span id="site-brand-title">Loading…</span></title>
+  <meta name="description" content="Creative portfolio" />
+
+  <!-- Fonts (optional) -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Anton&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="./style.css" />
+
+  <!-- Typed.js (optional, used if available) -->
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.1.0/dist/typed.umd.js" defer></script>
+
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <img id="site-avatar" class="avatar" alt="Avatar" />
+        <div>
+          <h1 id="site-brand" class="brand-name">Your Name</h1>
+          <div id="typed-tagline" class="taglines"></div>
+        </div>
+      </div>
+      <nav class="socials">
+        <a id="link-instagram" href="#" target="_blank" rel="noopener">Instagram</a>
+        <a id="link-youtube" href="#" target="_blank" rel="noopener">YouTube</a>
+        <a id="link-behance" href="#" target="_blank" rel="noopener">Behance</a>
+        <a id="link-website" href="#" target="_blank" rel="noopener">Website</a>
+      </nav>
+    </div>
+    <div class="cover-wrap">
+      <img id="site-cover" class="cover" alt="Cover" />
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="about" class="section">
+      <h2>About</h2>
+      <p id="about-bio">Loading bio…</p>
+    </section>
+
+    <section id="videos" class="section">
+      <h2>Videos</h2>
+      <div id="video-grid" class="grid"></div>
+    </section>
+
+    <section id="graphics" class="section">
+      <h2>Graphics</h2>
+      <div id="graphics-grid" class="grid"></div>
+    </section>
+
+    <section id="brands" class="section">
+      <h2>Brands</h2>
+      <div id="brands-grid" class="grid brands-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; <span id="year"></span> <span id="site-brand-footer">Your Name</span>. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
